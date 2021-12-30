@@ -35,9 +35,9 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="#"><img alt="Nguyen Thanh Hai Github Stats" src="https://github-readme-stats.vercel.app/api?username=hiiamsiro&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="#"><img width="54%" alt="Nguyen Thanh Hai Github Stats" src="https://github-readme-stats.vercel.app/api?username=hiiamsiro&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
     <a href="#">
-        <img width="27%" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hiiamsiro&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=hiiamsiro&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
   <br/>
 
