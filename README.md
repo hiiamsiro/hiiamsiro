@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **ReactJS.**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com)**
+- 👨‍💻 All of my projects are available at **[My CV](https://drive.google.com/file/d/1Sp5zx0qVGsVZLodv3rIlcYgxyuPmjYQ9/view?usp=sharing)**
 
 - 📫 How to reach me **nguyenthanhhai200092@gmail.com**
 
