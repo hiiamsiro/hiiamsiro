@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **nthai260920@gmail.com**
 
-- ⚡ Fun fact **I play games and play soccer very often.*
+- ⚡ Fun fact **I play games and play soccer very often.**
 
 ## 🚀 Languages and Tools:
 
