@@ -8,11 +8,11 @@
 
 - 🔭  I’m currently working on my health and making customers happy
 
-- 🌱 I’m currently learning **ReactJS.**
+- 🌱 I’m currently learning **NuxtJS.**
 
 - 👨‍💻 All of my projects are available at **[My CV](https://drive.google.com/file/d/1Sp5zx0qVGsVZLodv3rIlcYgxyuPmjYQ9/view?usp=sharing)**
 
-- 📫 How to reach me **nguyenthanhhai200092@gmail.com**
+- 📫 How to reach me **nthai260920@gmail.com**
 
 - ⚡ Fun fact **I play games and play soccer very often.**
 
@@ -25,6 +25,10 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>  
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
+    <a href="https://vuejs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/vue-js.png"/> </a>
+    <a href="https://nuxt.com/" target="_blank"> <img src="https://img.icons8.com/color/48/nuxt-jc.png"/> </a>
+    <a href="https://nestjs.com/" target="_blank"> <img src="https://api.iconify.design/logos/nestjs.svg?width=45&height=45"/> </a>
+    <a href="https://mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/48/mongodb.png"/> </a>
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>  
 </p>
