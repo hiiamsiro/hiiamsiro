@@ -8,7 +8,7 @@
 
 - 🔭  I’m currently working on my health and making customers happy
 
-- 🌱 I’m currently learning **NuxtJS.**
+- 🌱 I’m currently learning **AWS Web Service.**
 
 - 👨‍💻 All of my projects are available at **[My CV](https://drive.google.com/file/d/1Sp5zx0qVGsVZLodv3rIlcYgxyuPmjYQ9/view?usp=sharing)**
 
